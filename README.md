@@ -4,10 +4,10 @@ This is the repository that contains website source code for the [CHIP website](
 
 If you find CHIP useful for your work please cite:
 ```
-@article{nardon2025chip,
+@inproceedings{nardon2025chip,
   title={CHIP: A multi-sensor dataset for 6D pose estimation of chairs in industrial settings},
   author={Nardon, Mattia and Mujika Agirre, Mikel and González Tomé, Ander and Sedano Algarabel, Daniel and Rueda Collell, Josep and Caro, Ana Paola and Caraffa, Andrea and Poiesi, Fabio and Chippendale, Paul Ian and Boscaini, Davide},
-  journal={arXiv},
+  booktitle={Proceedings of the British Machine Vision Conference (BMVC)},
   year={2025}}
 ```
 
